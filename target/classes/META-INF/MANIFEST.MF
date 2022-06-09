@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: swarup.mishra
+Build-Jdk: 18.0.1
+Main-Class: com.motherson.adm.hello_java.App
+Created-By: Maven Integration for Eclipse
+
